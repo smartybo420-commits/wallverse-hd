@@ -1,0 +1,6 @@
+{
+  "name": "WallVerse HD",
+  "description": "Modern HD & 4K wallpapers, live animated wallpapers, curated categories, and premium collections.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
